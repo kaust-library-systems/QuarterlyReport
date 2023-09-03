@@ -2,7 +2,9 @@
 
  Process csv fo the quarterly report
 
- ## Overleaf
+## Dowloading the Data
+
+### Overleaf
 
  To download statistics for Overleaf
 
@@ -13,9 +15,9 @@
  1. On the top right coner, choose the time window.
  1. On the left corner, click in "Download CSV".
 
- ## Springshare
+### Springshare
  
-Download the statistics
+ Download the statistics
 
 1. LibGuides.
 1. Statistics.
@@ -23,3 +25,9 @@ Download the statistics
 1. Enter the time window.
 1. Click "run report."
 1. Click in "Export All Records" to download the CSV file.
+
+## Running the Reports
+
+```
+python overleaf --title "Q1 2023" --picture q1_2023_overleaf.png
+```
