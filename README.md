@@ -29,5 +29,5 @@
 ## Running the Reports
 
 ```
-python overleaf --title "Q1 2023" --picture q1_2023_overleaf.png
+python --title "Q1 2023" --picture q1_2023_overleaf.png
 ```
